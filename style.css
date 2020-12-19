@@ -1,10 +1,10 @@
-body{
+body {
  background-color: papayawhip;
 }
 
-#head{
+#head {
  text-align: center;
- color:black;
+ color: black;
  background-color: plum;
  padding: 1rem;
  border-radius: 1rem;
@@ -15,21 +15,21 @@ body{
  margin: 1rem;
  width: 90%;
  height: 10vh;
-position:relative;
-border: 3px solid black;
-font-size: 22px;
+ position: relative;
+ border: 3px solid black;
+ font-size: 22px;
 
 }
 
-.container-center{
-  max-width: 600px;
-  margin: auto;
+.container-center {
+ max-width: 600px;
+ margin: auto;
 }
 
 
 #btn {
  padding: 1rem;
- background-color:rgb(212, 238, 238);
+ background-color: rgb(212, 238, 238);
  color: black;
  height: 8vh;
  width: 20%;
@@ -43,7 +43,7 @@ font-size: 22px;
  margin: 1rem;
 }
 
-.op{
+.op {
  text-decoration: underline;
  font-size: 1.5rem;
  text-align: center;
@@ -51,13 +51,13 @@ font-size: 22px;
  font-weight: 700;
 }
 
-.footer{
+.footer {
  text-align: justify;
  padding: 1rem;
  background-color: plum;
- font-family:sans-serif;
+ font-family: sans-serif;
  font-weight: 400;
- font-size:1rem;
+ font-size: 1rem;
  border-radius: 1rem;
 
 }

@@ -26,18 +26,18 @@ function clickHandler() {
    var translatedText = json.contents.translated;
    output.innerText = translatedText;
   })
- };
+};
 
- /*.catch(errorHandler)*/
+/*.catch(errorHandler)*/
 
- btn.addEventListener("click", clickHandler)
+btn.addEventListener("click", clickHandler)
 
 
- /*function clickhandler()
- {
+/*function clickhandler()
+{
 
-  output.innerText = " jftfgdfdf " + txtInput.value;
-  /*console.log("clicked")
-  console.log(" input "+ txtInput.value)
+ output.innerText = " jftfgdfdf " + txtInput.value;
+ /*console.log("clicked")
+ console.log(" input "+ txtInput.value)
 
- }*/
+}*/
